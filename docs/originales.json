@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-24",
+  "execution": "Ninguna celda ejecutada durante la recuperación.",
+  "notebooks": [
+    {
+      "original_name": "Untitled11.ipynb",
+      "repository_path": "notebooks/01-deteccion-manos-tiempo-real.ipynb",
+      "drive_id": "1B1sKqviVwU1P4QfECw_5873DTu4n0cQJ",
+      "source_url": "https://colab.research.google.com/drive/1B1sKqviVwU1P4QfECw_5873DTu4n0cQJ",
+      "sha256": "ca61c3c8398a81ad01ce3d60d260b04fcfd832f2acfb4aab2226837157c3e251",
+      "sha256_scope": "Exportación reconstruida con celdas copiadas desde Colab; no es el archivo completo de Drive.",
+      "bytes": 22426,
+      "cells": 4,
+      "code_cells": 4,
+      "saved_outputs": 4,
+      "original_bytes_preserved": false,
+      "export_file_bytes_preserved": true,
+      "cells_preserved": true,
+      "ui_cells_payload_sha256": "4ada0d72bd2b32feeda31f425bc194eaaf5bbf0074a38e515e120cfc4b41b210",
+      "cells_canonical_sha256": "81e27c61ecc347f3d47b98e087902c7d4b72100720a8c28851aa7c1c9424d84d",
+      "reconstructed_root_metadata": {},
+      "reconstructed_nbformat": 4,
+      "reconstructed_nbformat_minor": 0,
+      "unavailable_original_root_metadata": true,
+      "syntax_checks": [
+        {
+          "cell": 0,
+          "type": "ipython_install_command",
+          "python_ast_applicable": false
+        },
+        {
+          "cell": 1,
+          "type": "ipython_install_command",
+          "python_ast_applicable": false
+        },
+        {
+          "cell": 2,
+          "type": "ipython_install_command",
+          "python_ast_applicable": false
+        },
+        {
+          "cell": 3,
+          "type": "python",
+          "valid_python_syntax": true
+        }
+      ],
+      "saved_errors": [
+        {
+          "cell": 3,
+          "ename": "NameError",
+          "evalue": "name 'audio_classifier' is not defined"
+        }
+      ]
+    },
+    {
+      "original_name": "Untitled13.ipynb",
+      "repository_path": "notebooks/02-seguimiento-manos-diagnostico.ipynb",
+      "drive_id": "11PojJsvWJWT3xuT4o0YFJiko2lRUxLJD",
+      "source_url": "https://colab.research.google.com/drive/11PojJsvWJWT3xuT4o0YFJiko2lRUxLJD",
+      "sha256": "55036878b5fe7ba23f37b68bcca438f6b550dea2d334cd607fbc2f595d9f4955",
+      "sha256_scope": "Exportación reconstruida con celdas copiadas desde Colab; no es el archivo completo de Drive.",
+      "bytes": 56568,
+      "cells": 3,
+      "code_cells": 3,
+      "saved_outputs": 4,
+      "original_bytes_preserved": false,
+      "export_file_bytes_preserved": true,
+      "cells_preserved": true,
+      "ui_cells_payload_sha256": "d9f9b9ec0400c35b010fa5bb07d7998a133408efb683d1697047ca2973f25aa6",
+      "cells_canonical_sha256": "758604f2f5493ec2e164e7ba078796e0e9ff0afb0aa0a24d914fb31a4157a2de",
+      "reconstructed_root_metadata": {},
+      "reconstructed_nbformat": 4,
+      "reconstructed_nbformat_minor": 0,
+      "unavailable_original_root_metadata": true,
+      "syntax_checks": [
+        {
+          "cell": 0,
+          "type": "ipython_install_command",
+          "python_ast_applicable": false
+        },
+        {
+          "cell": 1,
+          "type": "python",
+          "valid_python_syntax": true
+        },
+        {
+          "cell": 2,
+          "type": "python",
+          "valid_python_syntax": true
+        }
+      ],
+      "saved_errors": [
+        {
+          "cell": 1,
+          "ename": "ValueError",
+          "evalue": "numpy.dtype size changed, may indicate binary incompatibility. Expected 96 from C header, got 88 from PyObject"
+        },
+        {
+          "cell": 2,
+          "ename": "NameError",
+          "evalue": "name 'core' is not defined"
+        }
+      ]
+    },
+    {
+      "original_name": "Untitled15.ipynb",
+      "repository_path": "notebooks/03-control-brazo-robotico-gestos.ipynb",
+      "drive_id": "1FIJBkN0xG1JSir5UB3ugNX7QYCgzndC2",
+      "source_url": "https://colab.research.google.com/drive/1FIJBkN0xG1JSir5UB3ugNX7QYCgzndC2",
+      "sha256": "b8cd0495e1568e2369dc3478240a42775f379d78216ec993426ef5b27c239461",
+      "sha256_scope": "Exportación reconstruida con celdas copiadas desde Colab; no es el archivo completo de Drive.",
+      "bytes": 56980,
+      "cells": 3,
+      "code_cells": 3,
+      "saved_outputs": 3,
+      "original_bytes_preserved": false,
+      "export_file_bytes_preserved": true,
+      "cells_preserved": true,
+      "ui_cells_payload_sha256": "08016c26b7087eab3fc39e73725502f86cb355f3d11e6d14b19c8ad0b454d9d1",
+      "cells_canonical_sha256": "3e6134a8fdde792a8bbb7f86a182c5f2b4f60071d74f822e191c111ab7f279da",
+      "reconstructed_root_metadata": {},
+      "reconstructed_nbformat": 4,
+      "reconstructed_nbformat_minor": 0,
+      "unavailable_original_root_metadata": true,
+      "syntax_checks": [
+        {
+          "cell": 0,
+          "type": "python",
+          "valid_python_syntax": true
+        },
+        {
+          "cell": 1,
+          "type": "ipython_install_command",
+          "python_ast_applicable": false
+        },
+        {
+          "cell": 2,
+          "type": "ipython_install_command",
+          "python_ast_applicable": false
+        }
+      ],
+      "saved_errors": [
+        {
+          "cell": 0,
+          "ename": "ValueError",
+          "evalue": "numpy.dtype size changed, may indicate binary incompatibility. Expected 96 from C header, got 88 from PyObject"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Dependencias directas observadas en los cuadernos.
+# Inventario sin versiones bloqueadas; el entorno no se validó durante la recuperación.
+opencv-python
+mediapipe
+pyserial
+numpy

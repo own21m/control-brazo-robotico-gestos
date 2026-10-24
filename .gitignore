@@ -1,0 +1,17 @@
+# Entornos locales y cachés de Python.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Configuración local del editor y del sistema.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Variables de entorno y registros locales.
+.env
+.env.*
+*.log
